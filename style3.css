@@ -1,0 +1,52 @@
+body {
+	background-color: #942154;
+	color: #fffff5;
+}
+
+img {
+	width: 300px;
+	border-radius: 10%;
+}
+
+h1 {
+	font-size: 60px;
+	text-decoration: underline;
+}
+
+table {
+	border: 2px solid #000000;
+}
+
+th {
+	border-bottom: 2px solid #000000;
+}
+
+th, td {
+	padding: 10px;
+}
+
+div.test ul li {
+	list-style: square;
+}
+
+#awesomeList {
+	background-color: #fffff5;
+	color: #942154;
+}
+
+.classList {
+	font-family: Arial, Helvetica, sans-serif;
+	list-style-image: url('spiderman.png');
+}
+
+.active {
+	font-weight: bold;
+}
+
+.bolder {
+	font-weight: bolder;
+}
+
+.boldest {
+	font-weight: boldest;
+}
